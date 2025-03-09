@@ -60,8 +60,8 @@ I hold a **Master’s degree in Environmental Engineering** from the **Universit
 ---
 
 ## 📊 GitHub Stats  
-![Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+![Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehdi-Saberi&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-Saberi&layout=compact&theme=tokyonight)  
 
 ---
 
